@@ -1,10 +1,5 @@
 # Kasbah Learn Hub 🎓
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/kasbah-learn-hub/Back-End/ci.yml?branch=main)](https://github.com/kasbah-learn-hub/Back-End/actions)
-[![Frontend Deploy](https://img.shields.io/badge/frontend-live-brightgreen)](https://klh-frontend.vercel.app/)
-[![API Status](https://img.shields.io/badge/api-operational-brightgreen)](https://api.kasbahlearn.com)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 > **Making learning accessible for everyone** 🚀
 
 A modern, full-stack Learning Management System (LMS) built with cutting-edge technologies to revolutionize online education through innovative features and user-centric design.
