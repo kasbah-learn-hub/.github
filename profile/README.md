@@ -24,25 +24,6 @@ Kasbah Learn Hub is a comprehensive educational platform that combines powerful 
 - 📱 **Responsive Design**: Perfect experience across all devices
 - 🌙 **Theme Support**: Dark/light mode options
 
-## 🏗️ Architecture
-
-Our platform follows a modern microservices architecture:
-
-```
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Frontend      │    │   Backend API   │    │   Database      │
-│   (React/Next)  │◄──►│   (Node.js)     │◄──►│   (MongoDB)     │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
-                                │
-                       ┌─────────────────┐
-                       │   Redis Cache   │
-                       └─────────────────┘
-```
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Team
 
 <table>
