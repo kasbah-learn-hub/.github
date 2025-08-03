@@ -33,8 +33,8 @@ Kasbah Learn Hub is a comprehensive educational platform that combines powerful 
       <sub>Full Stack Developer</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/khabzox">
-        <img src="https://github.com/khabzox.png" width="100px;" alt="Abdelkabir Ouadoukou"/>
+      <a href="https://github.com/abdelkabirouadoukou">
+        <img src="https://avatars.githubusercontent.com/u/152230716?s=400&u=8ee660740e02c3e23cf18a76963e5a6f91247175&v=4" width="100px;" alt="Abdelkabir Ouadoukou"/>
         <br />
         <sub><b>Abdelkabir Ouadoukou</b></sub>
       </a>
